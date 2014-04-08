@@ -8,4 +8,5 @@
 void main(void)
 {
 	printf("hello So Gong\n");
+	printf("Nice to meet you\n");
 }
